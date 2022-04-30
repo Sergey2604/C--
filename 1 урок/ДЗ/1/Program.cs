@@ -1,0 +1,22 @@
+﻿Console.Write("Введите первое число: ");
+int num1 = int.Parse(Console.ReadLine());
+Console.Write("Введите второе число: ");
+int num2 = int.Parse(Console.ReadLine());
+
+if (num1>num2)
+{
+    Console.WriteLine($"Максимальное число - {num1}");
+    Console.WriteLine($"Минимальное число - {num2}");
+    Console.WriteLine($"{num1} > {num2}");
+}
+else if(num1==num2)
+{
+    Console.WriteLine("Вы ввели одинаковые числа");
+}
+else
+{
+     Console.WriteLine($"Максимальное число - {num2}");
+    Console.WriteLine($"Минимальное число - {num1}");
+    Console.WriteLine($"{num2} > {num1}");
+}
+Console.ReadKey();
