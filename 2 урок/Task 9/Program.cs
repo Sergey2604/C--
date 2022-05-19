@@ -1,11 +1,11 @@
 ﻿int num = new Random().Next(10, 100);
 System.Console.WriteLine(num);
-int firstDigit = num / 10;
-int secondDigit = num % 10;
-System.Console.WriteLine(firstDigit);
-System.Console.WriteLine(secondDigit);
-if (firstDigit > secondDigit)
+int maxNum = MaxNumber(num);
+System.Console.WriteLine(maxNum);
+int MaxNumber(int number)
 {
-    System.Console.WriteLine(firstDigit);
+    int num1 = number / 10;
+    int num2 = number % 10;
+    return num1 > num2 ? num1 : num2;
 }
-else System.Console.WriteLine(secondDigit);
+

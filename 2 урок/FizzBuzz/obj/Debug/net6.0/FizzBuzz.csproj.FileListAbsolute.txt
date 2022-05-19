@@ -1,0 +1,15 @@
+C:\Обучение\Знакомство с языками программирования\С#\Семинары\2 урок\FizzBuzz\bin\Debug\net6.0\FizzBuzz.exe
+C:\Обучение\Знакомство с языками программирования\С#\Семинары\2 урок\FizzBuzz\bin\Debug\net6.0\FizzBuzz.deps.json
+C:\Обучение\Знакомство с языками программирования\С#\Семинары\2 урок\FizzBuzz\bin\Debug\net6.0\FizzBuzz.runtimeconfig.json
+C:\Обучение\Знакомство с языками программирования\С#\Семинары\2 урок\FizzBuzz\bin\Debug\net6.0\FizzBuzz.dll
+C:\Обучение\Знакомство с языками программирования\С#\Семинары\2 урок\FizzBuzz\bin\Debug\net6.0\FizzBuzz.pdb
+C:\Обучение\Знакомство с языками программирования\С#\Семинары\2 урок\FizzBuzz\obj\Debug\net6.0\FizzBuzz.csproj.AssemblyReference.cache
+C:\Обучение\Знакомство с языками программирования\С#\Семинары\2 урок\FizzBuzz\obj\Debug\net6.0\FizzBuzz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Обучение\Знакомство с языками программирования\С#\Семинары\2 урок\FizzBuzz\obj\Debug\net6.0\FizzBuzz.AssemblyInfoInputs.cache
+C:\Обучение\Знакомство с языками программирования\С#\Семинары\2 урок\FizzBuzz\obj\Debug\net6.0\FizzBuzz.AssemblyInfo.cs
+C:\Обучение\Знакомство с языками программирования\С#\Семинары\2 урок\FizzBuzz\obj\Debug\net6.0\FizzBuzz.csproj.CoreCompileInputs.cache
+C:\Обучение\Знакомство с языками программирования\С#\Семинары\2 урок\FizzBuzz\obj\Debug\net6.0\FizzBuzz.dll
+C:\Обучение\Знакомство с языками программирования\С#\Семинары\2 урок\FizzBuzz\obj\Debug\net6.0\refint\FizzBuzz.dll
+C:\Обучение\Знакомство с языками программирования\С#\Семинары\2 урок\FizzBuzz\obj\Debug\net6.0\FizzBuzz.pdb
+C:\Обучение\Знакомство с языками программирования\С#\Семинары\2 урок\FizzBuzz\obj\Debug\net6.0\FizzBuzz.genruntimeconfig.cache
+C:\Обучение\Знакомство с языками программирования\С#\Семинары\2 урок\FizzBuzz\obj\Debug\net6.0\ref\FizzBuzz.dll
