@@ -11,5 +11,4 @@ int GetSumNumbers(int num)
     }
     return sum;
 }
-int SumResult = GetSumNumbers(number);
-System.Console.WriteLine(SumResult);
+System.Console.WriteLine(GetSumNumbers(number));
